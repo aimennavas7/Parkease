@@ -1,7 +1,10 @@
 # Parkease
 Smart parking system designed for college campuses using ESP32, IR sensors, GPS modules, and real-time LCD navigation. ParkEase automates parking slot allocation, guides drivers with live directions, and locks parking locations using multi-sensor confirmation—making campus parking faster, safer, and more efficient.
+
 🚗 ParkEase: An Automated Parking System
+
 📍 Final Year Mini Project | Electronics and Communication Engineering | MBCET
+
 🔍 Overview
 
 ParkEase is a smart, automated parking management system designed specifically for college campuses. It uses microcontrollers, sensors, and real-time communication to guide users to available slots, reduce congestion, and make parking simple, fast, and eco-friendly.
